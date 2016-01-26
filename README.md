@@ -4,5 +4,5 @@ How to install?
 Run in CLI "Composer install" to install all required items.
 
 How to run?
-On localhost: Open in browser page "http://localhost/converter/web/"
+On localhost: Open in browser page "http://localhost/currency_converter/web/"
 On website: Open in browser page "http://{hostname}/web/"
